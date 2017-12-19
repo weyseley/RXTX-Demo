@@ -1,0 +1,1 @@
+linux版本和windows版本一样，只需要更改串口名称即可, 由原来的com*--->/dev/tty***
